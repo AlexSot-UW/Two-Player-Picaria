@@ -8,10 +8,12 @@ GUI two player game written in python, which utilizes UDP Protocol to connect tw
 
 ## File Description
 
-`M1`: Contains code files for the first machine.\
+`M1 folder`: Contains code files for the first machine.\
   -> `m1.py`: Python file which is run in order to begin game.\
-`M2`: Contains code files for the second machine.\
+  \
+`M2 folder`: Contains code files for the second machine.\
   -> `m1.py`: Python file which is run in order to begin game.\
+  \
 `SIMULATION`: Contains files used to debug code which simulate a real players input. Files **only** to be used for debugging purposes.
 
 ## Initial Setup
