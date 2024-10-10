@@ -16,14 +16,15 @@ GUI two player game written in python, which utilizes UDP Protocol to connect tw
 
 ## Initial Setup
 
-1. Make sure `TARS_code.py` has a desktop shortcut.
-2. Make sure VNC viewer app is installed on a mobile device.
-3. Follow the steps outlined in `TARS Instructions.docx`.
-
+1. Download files on both computers.
+2. Make sure both are connected to the same internet network.
+3. Run `m1.py` on `machine 1`.
+4. Run `m2.py` on `machine 2`.
+5. Enjoy the game :)
 
 ## What is Picaria?
 
-  Picaria is a version of tic tac toe created and played by the first nations people of North America, more information can be found \href(https://en.wikipedia.org/wiki/Picaria){here}.
+  Picaria is a version of tic tac toe created and played by the first nations people of North America, more information can be found [https://en.wikipedia.org/wiki/Picaria](here).
 
 
 SIMULATIONS folder contains files for running diagnostics tests when the game doesn't work as intended.
