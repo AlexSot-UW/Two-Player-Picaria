@@ -27,8 +27,3 @@ GUI two player game written in python, which utilizes UDP Protocol to connect tw
 ## What is Picaria?
 
   Picaria is a version of tic tac toe created and played by the first nations people of North America, more information can be found [https://en.wikipedia.org/wiki/Picaria](here).
-
-
-SIMULATIONS folder contains files for running diagnostics tests when the game doesn't work as intended.
-
-Software/Hardware Used: `Raspberry Pi`, `Python`
