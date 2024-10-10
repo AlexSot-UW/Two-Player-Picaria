@@ -6,7 +6,7 @@ GUI two player game written in python, which utilizes UDP Protocol to connect tw
 
 **Software/Hardware Used:** `Raspberry Pi`,  `Python`, `UDP Protocol`
 
-## File Description
+## Folder/File Description
 
 `M1 folder`: Contains code files for the first machine.\
   -> `m1.py`: Python file which is run in order to begin game.\
